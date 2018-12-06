@@ -1,5 +1,4 @@
 # hello-world
-First try
 
 Yo'Sup
 Trying to understand about github today, 6 December 2018
